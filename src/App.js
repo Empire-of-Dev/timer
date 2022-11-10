@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <div className='title'>
         <div className='logo-container'>
-            <img  className='logo-img' src='/logo.png' alt='logo' />           
+            <img  className='logo-img' src='./logo.png' alt='logo' />           
         </div>
         <div className='metto'>
           Education is a profitable  investment offering.
